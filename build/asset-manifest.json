@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cc0b15e.css",
+    "main.js": "/static/js/main.0742d4e6.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/elnaz.jpg": "/static/media/elnaz.630bf9b8881e58944637.jpg",
+    "index.html": "/index.html",
+    "main.2cc0b15e.css.map": "/static/css/main.2cc0b15e.css.map",
+    "main.0742d4e6.js.map": "/static/js/main.0742d4e6.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc0b15e.css",
+    "static/js/main.0742d4e6.js"
+  ]
+}
